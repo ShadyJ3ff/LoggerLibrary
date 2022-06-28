@@ -1,0 +1,7 @@
+C:\Users\yaros_yxwilcs\Desktop\Тестовое задание\Logger\Logger\bin\Debug\Logger.dll
+C:\Users\yaros_yxwilcs\Desktop\Тестовое задание\Logger\Logger\bin\Debug\Logger.pdb
+C:\Users\yaros_yxwilcs\Desktop\Тестовое задание\Logger\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\Users\yaros_yxwilcs\Desktop\Тестовое задание\Logger\Logger\obj\Debug\Logger.dll
+C:\Users\yaros_yxwilcs\Desktop\Тестовое задание\Logger\Logger\obj\Debug\Logger.pdb
+C:\Users\yaros_yxwilcs\Desktop\Тестовое задание\Logger\Logger\bin\Debug\Logger.mdb
+C:\Users\yaros_yxwilcs\Desktop\Тестовое задание\Logger\Logger\bin\Debug\Logger.dll.config
